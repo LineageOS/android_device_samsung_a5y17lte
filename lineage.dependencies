@@ -1,0 +1,6 @@
+[
+    {
+        "repository": "android_device_samsung_universal7880-common",
+        "target_path": "device/samsung/universal7880-common"
+    }
+]

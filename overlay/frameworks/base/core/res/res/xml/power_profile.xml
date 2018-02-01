@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<device name="Android">
+    <item name="none">0</item>
+    <item name="screen.on">45.1</item>
+    <item name="screen.full">225.1</item>
+    <item name="bluetooth.on">0.65</item>
+    <item name="bluetooth.active">84.5</item>
+    <item name="wifi.on">0.29</item>
+    <item name="wifi.scan">39</item>
+    <item name="wifi.active">312</item>
+    <item name="gps.on">21.5</item>
+    <array name="radio.on">
+        <value>7.62</value>
+        <value>7.62</value>
+    </array>
+    <item name="radio.scanning">116.8</item>
+    <item name="radio.active">112</item>
+    <item name="battery.capacity">3000</item>
+    <item name="cpu.idle">4.44</item>
+    <item name="cpu.awake">10.56</item>
+    <array name="cpu.speeds">
+        <value>1872000</value>
+        <value>1794000</value>
+        <value>1690000</value>
+        <value>1586000</value>
+        <value>1482000</value>
+        <value>1352000</value>
+        <value>1242000</value>
+        <value>1144000</value>
+        <value>1014000</value>
+        <value>962000</value>
+        <value>845000</value>
+        <value>757000</value>
+        <value>676000</value>
+        <value>546000</value>
+        <value>449000</value>
+    </array>
+    <array name="cpu.active">
+        <value>127</value>
+        <value>117</value>
+        <value>104</value>
+        <value>88</value>
+        <value>78</value>
+        <value>67</value>
+        <value>59</value>
+        <value>56</value>
+        <value>51</value>
+        <value>45</value>
+        <value>37</value>
+        <value>36</value>
+        <value>32</value>
+        <value>27</value>
+        <value>25</value>
+    </array>
+    <item name="dsp.audio">37</item>
+    <item name="dsp.video">154</item>
+    <array name="wifi.batchedscan">
+        <value>.0002</value>
+        <value>.002</value>
+        <value>.02</value>
+        <value>.2</value>
+        <value>2</value>
+    </array>
+    <item name="camera.avg">386</item>
+    <item name="camera.flashlight">89</item>
+</device>
