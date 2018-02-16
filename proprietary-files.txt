@@ -1,0 +1,22 @@
+#
+# Copyright (C) 2018 The LineageOS Project
+#
+# This program is free software; you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation; either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+
+# Radio
+bin/cbd
+lib/libsec-ril.so
+lib64/libsec-ril.so
+lib/libsec-ril-dsds.so
+lib64/libsec-ril-dsds.so
+lib/libsecnativefeature.so
+lib64/libsecnativefeature.so

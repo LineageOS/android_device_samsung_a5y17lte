@@ -18,5 +18,8 @@ LOCAL_PATH := device/samsung/a5y17lte
 
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
-# call the proprietary setup
+# call the common setup
 $(call inherit-product, device/samsung/universal7880-common/common.mk)
+
+# call the proprietary setup
+$(call inherit-product, vendor/samsung/a5y17lte/a5y17lte-vendor.mk)
