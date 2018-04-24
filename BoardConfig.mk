@@ -25,4 +25,4 @@ BOARD_KERNEL_PREBUILT_DT := $(LOCAL_PATH)/dtb.img
 TARGET_KERNEL_CONFIG := lineage-a5y17lte_defconfig
 
 # OTA
-TARGET_OTA_ASSERT_DEVICE := a5y17lte,a5y17ltexx
+TARGET_OTA_ASSERT_DEVICE := a5y17lte,a5y17ltexx,a5y17ltecan
