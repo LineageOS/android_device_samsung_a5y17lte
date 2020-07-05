@@ -16,9 +16,9 @@
     <item name="radio.scanning">116.8</item>
     <item name="radio.active">112</item>
     <item name="battery.capacity">3000</item>
-    <item name="cpu.idle">4.44</item>
-    <item name="cpu.awake">10.56</item>
-    <array name="cpu.speeds">
+    <item name="cpu.suspend">4.44</item>
+    <item name="cpu.idle">10.56</item>
+    <array name="cpu.core_speeds.cluster0">
         <value>1872000</value>
         <value>1794000</value>
         <value>1690000</value>
@@ -35,7 +35,7 @@
         <value>546000</value>
         <value>449000</value>
     </array>
-    <array name="cpu.active">
+    <array name="cpu.core_power.cluster0">
         <value>127</value>
         <value>117</value>
         <value>104</value>
@@ -52,8 +52,8 @@
         <value>27</value>
         <value>25</value>
     </array>
-    <item name="dsp.audio">37</item>
-    <item name="dsp.video">154</item>
+    <item name="audio">37</item>
+    <item name="video">154</item>
     <array name="wifi.batchedscan">
         <value>.0002</value>
         <value>.002</value>
