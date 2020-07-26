@@ -1,8 +1,0 @@
-# Radio
-bin/cbd
-lib/libsec-ril.so
-lib64/libsec-ril.so
-lib/libsec-ril-dsds.so
-lib64/libsec-ril-dsds.so
-lib/libsecnativefeature.so
-lib64/libsecnativefeature.so
